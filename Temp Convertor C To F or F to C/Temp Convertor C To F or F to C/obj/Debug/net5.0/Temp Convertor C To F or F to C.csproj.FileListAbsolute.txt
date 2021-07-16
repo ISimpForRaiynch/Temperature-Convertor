@@ -1,0 +1,16 @@
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.exe
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.deps.json
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.runtimeconfig.json
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.runtimeconfig.dev.json
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.dll
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\ref\Temp Convertor C To F or F to C.dll
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\bin\Debug\net5.0\Temp Convertor C To F or F to C.pdb
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.csproj.AssemblyReference.cache
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.AssemblyInfoInputs.cache
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.AssemblyInfo.cs
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.csproj.CoreCompileInputs.cache
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.dll
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\ref\Temp Convertor C To F or F to C.dll
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.pdb
+C:\Users\angelica\RiderProjects\Temp Convertor C To F or F to C\Temp Convertor C To F or F to C\obj\Debug\net5.0\Temp Convertor C To F or F to C.genruntimeconfig.cache
